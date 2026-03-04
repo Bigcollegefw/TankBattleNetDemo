@@ -33,9 +33,9 @@ Assets/
 └── ui/              # UI资源
 ```
 
-## 相关项目
+## 演示视频
 
-- **服务端**: [TankBattleNetServer](https://github.com/Bigcollegefw/TankBattleNetServer) - C++ 编写的游戏服务器
+百度网盘: https://pan.baidu.com/s/1BAKTggLSj3bsijQx7Qyu2g?pwd=2121
 
 ## 运行说明
 
