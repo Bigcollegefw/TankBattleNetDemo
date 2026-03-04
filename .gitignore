@@ -1,0 +1,33 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# VS/Mono
+.vs/
+*.suo
+*.user
+*.userosscache
+*.rsuser
+*.sln.docstates
+
+# Unity generated csproj (不需要上传)
+Assembly-CSharp.csproj
+Unity.Services.Core.*.csproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+*.bak
